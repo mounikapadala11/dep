@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mounika Padala</title>
+    <link>https://arkalim.org/</link>
+    <description>Recent content on Mounika Padala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://arkalim.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TritonHTTP Web Server</title>
+      <link>https://arkalim.org/projects/tritionhttp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/tritionhttp/</guid>
+      <description>A custom web server that implements subset of HTTP/1.1 Protocol Specification</description>
+    </item>
+    
+    <item>
+      <title>Rease - Web Rental Application</title>
+      <link>https://arkalim.org/projects/rease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/rease/</guid>
+      <description>Renting or Leasing with Ease</description>
+    </item>
+    
+    <item>
+      <title>Reddit Data Anlysis using ML</title>
+      <link>https://arkalim.org/projects/reddit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/reddit/</guid>
+      <description>Understanding user engagement and behaviour</description>
+    </item>
+    
+    <item>
+      <title>Empty Parking Space Detection using Mask R-CNN and Computer Vision</title>
+      <link>https://arkalim.org/projects/empty_parking_space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/empty_parking_space/</guid>
+      <description>🔗 Publication Description Worked on a self-project to identify empty parking spaces using an input video from surveillance cameras in parking lots.
+Developed a scalable project using OpenCV and Mask RCNN to help reduce the requirement for parking sensors with 73.8 % accuracy.
+Published research paper “Empty Parking Space Detection using Mask R-CNN and Computer Vision” is published in ‘SPAST Journal’.</description>
+    </item>
+    
+    <item>
+      <title> Agriculture Crop Yield Prediction Model</title>
+      <link>https://arkalim.org/projects/agri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/agri/</guid>
+      <description>An all-terrain robot for disaster management!</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Prediction Model using Pima Dataset</title>
+      <link>https://arkalim.org/projects/diabetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/diabetes/</guid>
+      <description>Do you have diabetes</description>
+    </item>
+    
+    <item>
+      <title>Software Engineer</title>
+      <link>https://arkalim.org/experience/mindtree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/experience/mindtree/</guid>
+      <description>Mindtree Pvt. Ltd.</description>
+    </item>
+    
+    <item>
+      <title>Software Developer Intern</title>
+      <link>https://arkalim.org/experience/cognizant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/experience/cognizant/</guid>
+      <description>Cognizant Pvt Ltd</description>
+    </item>
+    
+    <item>
+      <title>Software Developer Intern</title>
+      <link>https://arkalim.org/experience/ingwa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/experience/ingwa/</guid>
+      <description>Ingwa Labs</description>
+    </item>
+    
+    
+  </channel>
+</rss>

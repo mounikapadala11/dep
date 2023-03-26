@@ -1,0 +1,108 @@
+baseURL: "https://arkalim.org"
+languageCode: en-us
+title: Mounika Padala
+theme: papermod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    # - identifier: blog
+    #   name: Blog
+    #   url: /blog
+    #   weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Mounika Padala"
+    subtitle: "Hi 👋, I'm **Mounika**, an [**MSc in Computer Scince**](https://cse.ucsd.edu/graduate/degree-programs/ms-program) student at the **University of California, San Diego**. I'm passionate about **Backend**, **Frontend**, **Networks** and **Machine Learning**. I have experience in programming languages such as **Python, C, C++** and web technologies like **MERN Stack, Network Programming through GoLang and Machine Learning Models**. I have also developed several projects and **published papers** in journals. Additionally, I have work experience as a **software engineer and developer intern**. I am interested in a career in **software development and data science**. As a technology enthusiast, I learn new techs in my free time. Recent one is **Apache NIFI**."
+
+    # Hi 👋, I'm Mounika, an [**MSc in Computer Scince**](https://cse.ucsd.edu/graduate/degree-programs/ms-program) student at the **University of California, San Diego**. I'm passionate about **Backend**, **Frontend**, **Networks** and **Machine Learning". I have experience in programming languages such as Python, C, C++ and web technologies like JavaScript, Flutter, HTML5, and CSS. I have also developed several projects and published papers in journals. Additionally, I have work experience as a software engineer and developer intern. I am interested in a career in software development and data science. As a technology enthusiast, I learn new techs in my free time.
+    imageUrl: "home/me1.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:mounikapadala11@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/mounika-padala-ucsd/"
+    - name: "github"
+      url: "https://github.com/mounikapadala11"
+    # - name: "youtube"
+    #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
+    - name: "cv"
+      url: "https://drive.google.com/file/d/1vzYnWOPsblnV_tiMnYgaeLpnFhmTmmpz/view?usp=share_link"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# module:
+#   import:
+#     path: "github.com/adityatelange/hugo-PaperMod"
+#     theme: "papermod"

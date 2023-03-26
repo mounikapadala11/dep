@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RCNN on Mounika Padala</title>
+    <link>https://arkalim.org/tags/rcnn/</link>
+    <description>Recent content in RCNN on Mounika Padala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://arkalim.org/tags/rcnn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empty Parking Space Detection using Mask R-CNN and Computer Vision</title>
+      <link>https://arkalim.org/projects/empty_parking_space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/empty_parking_space/</guid>
+      <description>🔗 Publication Description Worked on a self-project to identify empty parking spaces using an input video from surveillance cameras in parking lots.
+Developed a scalable project using OpenCV and Mask RCNN to help reduce the requirement for parking sensors with 73.8 % accuracy.
+Published research paper “Empty Parking Space Detection using Mask R-CNN and Computer Vision” is published in ‘SPAST Journal’.</description>
+    </item>
+    
+  </channel>
+</rss>
