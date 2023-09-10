@@ -1,8 +1,6 @@
 ---
 title: "Skills"
-markup:
-  tableOfContents:
-    enabled: false
+tableOfContents: false
 ---
 
 <h2> Programming Languages</h2>
