@@ -74,8 +74,10 @@ The Crop Yield Prediction System provides an innovative solution to the challeng
 
 
 [Visit the project on GitHub](https://github.com/mounikapadala11/Agriculture-Crop-Yield-Prediction-Model)
+<!-- 
+About me old:
 
-
+    Hi 👋, I'm Mounika, an [**MSc in Computer Scince**](https://cse.ucsd.edu/graduate/degree-programs/ms-program) student at the **University of California, San Diego**. I'm passionate about **Backend**, **Frontend**, **Networks** and **Machine Learning". I have experience in programming languages such as Python, C, C++ and web technologies like JavaScript, Flutter, HTML5, and CSS. I have also developed several projects and published papers in journals. Additionally, I have work experience as a software engineer and developer intern. I am interested in a career in software development and data science. As a technology enthusiast, I learn new techs in my free time. -->
 
 <!-- Natural disasters like earthquakes and landslides are sudden events that cause widespread destruction and major collateral damage including loss of life. Though disasters can never be prevented, their effects on mankind can surely be reduced. In this paper, we present the design and control of SRR (Search and Reconnaissance Robot), a robot capable of traversing on all terrains and locating survivors stuck under the debris. This will assist the rescue team to focus on recovering the victims, leaving the locating task for the Robots. The unique features of the SRR above existing ATVs are active-articulation, modularity, and assisted-autonomy. Active-articulation allows the SRR to climb objects much tall than itself. Modularity allows the SRR to detach into smaller modules to enter tight spaces where the whole body can’t fit. Assisted-autonomy allows the SRR to detect the presence of objects in front and climb autonomously over them.
 
