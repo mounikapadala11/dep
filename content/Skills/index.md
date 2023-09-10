@@ -5,23 +5,43 @@ title: "Skills"
 ## Programming Languages
 
 - Python
+- C
+- C++
 - JavaScript
-- Go
+- TypeScript
+- Java
+- Golang
 
 ## Web Development
 
-- HTML/CSS
-- React
-- Node.js
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- ReactJS
+- NodeJS
 
-## Data Science
+## Data Science & Machine Learning
 
 - Pandas
+- TensorFlow
 - NumPy
-- Scikit-Learn
+- SciPy
+- Matplotlib
+- Jupyter Notebook
 
-## Other Skills
+## Version Control
 
 - Git
-- Docker
-- Linux
+
+## Databases
+
+- MongoDB
+- SQL
+
+## Miscellaneous
+
+- ANTLR
+- Apache NiFi
+- Rust
+- Selenium
