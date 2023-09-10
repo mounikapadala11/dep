@@ -1,12 +1,12 @@
 ---
-title: "Empty Parking Space Detection using Mask R-CNN and Computer Vision"
+title: "Python"
 # description: ""
-dateString: Aug 2021 - Oct 2021
-draft: false
-tags: ["RCNN", "OpenCV", "Computer Vision"]
-showToc: false
-weight: 207
-cover:
+# dateString: Aug 2021 - Oct 2021
+# draft: false
+# tags: ["RCNN", "OpenCV", "Computer Vision"]
+# showToc: false
+# weight: 207
+# cover:
 #   image: "projects/gaze-tracking-goggles/cover.jpg"
 ---
 
