@@ -6,7 +6,7 @@ cover:
 
 ## Connect with Me
 
-[![GitHub](Contact/image1.png)](https://github.com/mounikapadala11) [GitHub](https://github.com/mounikapadala11)
+[![GitHub](./image1.png)](https://github.com/mounikapadala11) [GitHub](https://github.com/mounikapadala11)
 
 [![Email](/images/image1.png)](mailto:mpadala@ucsd.edu) [Email](mailto:mpadala@ucsd.edu)
 
