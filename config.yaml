@@ -53,7 +53,7 @@ params:
 
 Fast forward, and I found myself expanding my horizons at the [**University of California**](https://cse.ucsd.edu/graduate/degree-programs/ms-program), San Diego, pursuing an **MSc in Computer Science** 🌴.
 
-|
+
 
 At present, I'm a **Graduate Student Researcher at UCSD** 🎓. As a crucial component of my research, I'm contributing to the development of a **Jupyter Notebook widget**, or GUI, envisioned to be a game-changer for data scientists 💡. 
 
@@ -61,7 +61,7 @@ From orchestrating advanced web applications using the **MERN Stack** to delving
 
 Beyond the academics, I've marked milestones with **published papers** in esteemed journals 📚 and invaluable **hands-on experience as a software engineer** 💼. In my downtime from the tech world, I enjoy doing **Aerial Silks** 🎪, finding balance between the digital and the physical.
 
-|
+
 
 Driven by a profound passion for tech and an aspiration for continuous learning, I'm keenly interested in opportunities in **software development and data science** 💡. Whether you're curious about my projects, want to discuss the latest in tech, or wish to hear more about my journey from Hyderabad to San Diego, let's connect! 🤝"
 
@@ -92,7 +92,7 @@ Driven by a profound passion for tech and an aspiration for continuous learning,
     # - name: "youtube"
     #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1vzYnWOPsblnV_tiMnYgaeLpnFhmTmmpz/view?usp=share_link"
+      url: "https://drive.google.com/file/d/1tE5Sqnjr0KMEQmY49SfuXRK0_Q4mz7-a/view?usp=sharing"
 
   # text search
   fuseOpts:
