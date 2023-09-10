@@ -58,7 +58,7 @@ params:
   profileMode:
     enabled: true
     title: "Mounika Padala"
-    subtitle: " Hello 👋! I'm **Mounika** , currently pursuing my **Master's in Computer Science at UC San Diego** and will be **graduating soon** 🎓 and I'm actively exploring **full-time opportunities in Software Engineering** 💼 and would love to chat more about it. 
+    subtitle: " Hello 👋! I'm **Mounika** , currently pursuing my **Master's in Computer Science at UC San Diego**. Set to **graduate in March** 🎓 , I'm actively looking for **full-time opportunities in Software Engineer, Software Developer, Data Scientist roles** 💼 and would love to chat more about it. 
     
 
 
@@ -127,7 +127,7 @@ Driven by a profound passion for tech and an aspiration for continuous learning,
 
   socialIcons:
     - name: "email"
-      url: "mailto:mounikapadala11@gmail.com"
+      url: "mailto:mpadala@ucsd.edu"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/mounika-padala-ucsd/"
     - name: "github"
