@@ -1,6 +1,6 @@
 ---
 title: " Agriculture Crop Yield Prediction Model"
-description: "An all-terrain robot for disaster management!"
+description: "a system to predict the yield of the crop using Soil and Weather Parameters."
 dateString: Jan 2019 - Mar 2019
 draft: false
 tags:

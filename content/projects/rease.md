@@ -36,6 +36,10 @@ quality, and performance.
 
 Maintained version control of the project using Git, and deployed updates to the project on regular basis.
 
+[Visit the project on GitHub](https://github.com/mounikapadala11/Rease)
+
+[Application Website](https://house-renting-application.vercel.app/landing)
+
 <!-- ![Attention Mechanism](/../static/home/me.jpg) -->
 
 <!--
