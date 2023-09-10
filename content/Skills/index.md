@@ -1,5 +1,8 @@
 ---
 title: "Skills"
+markup:
+  tableOfContents:
+    enabled: false
 ---
 
 <h2> Programming Languages</h2>
@@ -21,7 +24,7 @@ title: "Skills"
 - ReactJS
 - NodeJS
 
-## Data Science & Machine Learning
+<h2> Data Science & Machine Learning </h2>
 
 - Pandas
 - TensorFlow
@@ -30,16 +33,16 @@ title: "Skills"
 - Matplotlib
 - Jupyter Notebook
 
-## Version Control
+<h2> Version Control </h2>
 
 - Git
 
-## Databases
+<h2> Databases </h2>
 
 - MongoDB
 - SQL
 
-## Miscellaneous
+<h2> Miscellaneous </h2>
 
 - ANTLR
 - Apache NiFi

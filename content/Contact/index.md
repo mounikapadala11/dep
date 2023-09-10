@@ -1,5 +1,8 @@
 ---
 title: "Contact"
+markup:
+  tableOfContents:
+    enabled: false
 ---
 
 <h2> Connect with Me </h2>
