@@ -13,7 +13,7 @@ tags:
     "Logistic Regression",
   ]
 showToc: false
-weight: 208
+weight: 205
 cover:
 #   image: "projects/search-and-reconnaissance-robot/cover.jpeg"
 ---

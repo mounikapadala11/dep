@@ -4,7 +4,7 @@ description: "A custom web server that implements subset of HTTP/1.1 Protocol Sp
 dateString: Jan 2023-Feb 2023
 draft: false
 tags: ["Golang", "VS Code", "Parsing", "Framing"]
-weight: 201
+weight: 203
 cover:
   # image: "/projects/obsidian-publish-github-action/cover.jpg"
 ---

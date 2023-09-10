@@ -1,11 +1,11 @@
 ---
 title: "Teaching Assistant"
 description: "University of California, San Diego"
-dateString: Jan 2023 - Present
+dateString: April 2023 - Present
 draft: false
 tags: ["Teaching","Python", "Undergrad"]
 showToc: false
-weight: 305
+weight: 302
 ---
 
 <!-- ### 🔗 [GitHub](https://github.com/arkalim/Tensorflow/tree/master/VLocNet) -->

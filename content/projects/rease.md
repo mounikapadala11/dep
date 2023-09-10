@@ -18,7 +18,7 @@ tags:
     "Figma",
   ]
 showToc: false
-weight: 203
+weight: 201
 cover:
   image: "../static/home/me.jpg"
 ---
@@ -40,7 +40,6 @@ Maintained version control of the project using Git, and deployed updates to the
 
 [Application Website](https://house-renting-application.vercel.app/landing)
 
-<!-- ![Attention Mechanism](/../static/home/me.jpg) -->
 
 <!--
 ### 🔗 [Colab Notebook](https://colab.research.google.com/drive/1Q553uslYW3Ho6P1G46SOEDxOS_VmHXfJ)

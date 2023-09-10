@@ -4,7 +4,7 @@ description: "A distributed, fault-tolerant metadata store that uses the RAFT co
 dateString: Feb 2023-March 2023
 draft: false
 tags: ["Golang", "VS Code", "Parsing", "Framing", "RAFT","Distributed System"," Fault-tolerant","Data Consistency","Client-Server Interaction"]
-weight: 201
+weight: 202
 cover:
   # image: "/projects/obsidian-publish-github-action/cover.jpg"
 ---

@@ -5,7 +5,7 @@ dateString: Jul 2020 - Oct 2020
 draft: false
 tags: ["Logistic Regression", "Flask", "HTML", "CSS"]
 showToc: false
-weight: 209
+weight: 206
 cover:
 #   image: "projects/sebart-pro/cover.jpeg"
 ---
