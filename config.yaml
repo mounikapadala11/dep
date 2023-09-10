@@ -25,14 +25,15 @@ menu:
       name: Skills
       url: /Skills
       weight: 50
-    - identifier: search
-      name: Search
-      url: /search
-      weight: 70
     - identifier: Contact
       name: Contact
       url: /Contact
       weight: 60
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 70
+
     # - identifier: tags
     #   name: Tags
     #   url: /tags
