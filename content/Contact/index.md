@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-## Connect with Me
+<h2> Connect with Me </h2>
  <div style="display: flex; align-items: center; justify-content: center;">
             <div style="text-align: center; margin: 10px;">
                 <a href="https://www.linkedin.com/in/mounika-padala-ucsd/">

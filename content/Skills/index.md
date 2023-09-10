@@ -2,7 +2,7 @@
 title: "Skills"
 ---
 
-## Programming Languages
+<h2> Programming Languages</h2>
 
 - Python
 - C
@@ -12,7 +12,7 @@ title: "Skills"
 - Java
 - Golang
 
-## Web Development
+<h2> Web Development </h2>
 
 - HTML
 - CSS
