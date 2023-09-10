@@ -3,7 +3,7 @@ title: "Contact"
 ---
 
 ## Connect with Me
- <div style="display: flex; flex-direction: column; align-items: center;">
+ <div style="display: flex; align-items: center; justify-content: center;">
             <div style="text-align: center; margin: 10px;">
                 <a href="https://www.linkedin.com/in/mounika-padala-ucsd/">
                     <img src="./image3.png" alt="LinkedIn" height="80" width="80">
