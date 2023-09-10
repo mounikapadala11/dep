@@ -5,7 +5,7 @@ title: "Contact"
 
 ## Connect with Me
 
-[![Github]<img src="./image1.png" alt="GitHub" height="50" width="50">](https://github.com/mounikapadala11) 
+[<img src="./image1.png" alt="GitHub" height="50" width="50">](https://github.com/mounikapadala11) 
 
 
 [![Email](./image1.png)](mailto:mpadala@ucsd.edu) [Email](mailto:mpadala@ucsd.edu)
