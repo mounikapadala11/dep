@@ -14,7 +14,7 @@ markup:
                 <p>LinkedIn</p>
             </div>
             <div style="text-align: center; margin: 10px;">
-                <a href="https://drive.google.com/file/d/1tE5Sqnjr0KMEQmY49SfuXRK0_Q4mz7-a/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/1jnQuYpQd2bcdl-Gfww05tPcSYldd503Q/view?usp=sharing">
                     <img src="./image4.png" alt="Resume" height="80" width="80">
                 </a>
                 <p>Resume</p>
