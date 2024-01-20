@@ -1,79 +1,57 @@
 ---
-title: " Agriculture Crop Yield Prediction Model"
-description: "a system to predict the yield of the crop using Soil and Weather Parameters."
-dateString: Jan 2019 - Mar 2019
+title: "WeatherApp - SwiftUI Development"
+description: "An independent project focusing on advanced SwiftUI techniques for iOS app development."
+dateString: Dec 2023 - Jan 2024
 draft: false
 tags:
-  [
-    "Machine Learning",
-    "Python",
-    "Jupyter Notebook",
-    "Support Vector Machine",
-    "Random Forest",
-    "Logistic Regression",
-  ]
+[
+"SwiftUI",
+"iOS Development",
+"UI/UX Design",
+"Data-Driven UI",
+"View Structs",
+"Swift",
+]
 showToc: false
 weight: 207
 cover:
-#   image: "projects/search-and-reconnaissance-robot/cover.jpeg"
+
 ---
-
 ## Description
-
-Developed a system to predict the yield of the crop using Soil and Weather Parameters with an accuracy of 82 percent.
-
-Implemented multiple models of Random Forest, SVM, and Logistic Regression, to improve the accuracy on held-out
-data samples.
+Developed an independent iOS app using SwiftUI, focusing on enhancing app performance and user experience through advanced SwiftUI techniques.
 
 ### Introduction:
-
-Agriculture has always been the backbone of any civilization. With increasing urbanization and changing climatic patterns, ensuring optimal crop yield is becoming increasingly challenging. This project was undertaken to predict the yield of millet by analyzing various soil and weather parameters, and employing advanced machine learning techniques.
+WeatherApp is an iOS application developed using SwiftUI, showcasing modern app development practices. The project emphasized mastering SwiftUI features such as sub-view extraction and efficient use of View structs to create a responsive and data-driven user interface.
 
 ### Objective:
+The primary goals of the WeatherApp project were:
 
-Given the complexities of modern agriculture, where a myriad of factors influence crop yields, there's a growing necessity to harness technology to aid farmers. This project aims at:
+To build an intuitive and high-performance weather application using SwiftUI.
+To implement advanced SwiftUI concepts for optimizing UI/UX.
+To demonstrate the capability of SwiftUI in handling complex UI layouts and data-driven designs.
 
-Accurately predicting the yield of millet based on various soil and weather conditions.
-Optimizing resource allocation for maximizing crop yield and profits.
-Assisting in forecasting agricultural yield, crop costs, and predicting rainfall patterns.
-Analysis and Methodology:
+### Analysis and Methodology:
+Key aspects of the project included:
+Sub-View Extraction: Implementing reusability and better organization in SwiftUI code by extracting sub-views.
+ZStack Limitation Handling: Addressing the limitation of SwiftUI's ZStack, which can hold a maximum of 11 elements.
+Reusable Components: Creating modular and reusable components for consistent UI elements across different app pages.
+Modifier Order Importance: Understanding the significance of the order of modifiers in SwiftUI and its impact on the view hierarchy and layout.
+Efficiency of View Structs: Utilizing SwiftUI's lightweight and efficient View structs, designed for frequent creation and destruction.
 
-Inputs: The primary data considered includes parameters like Moisture, Rainfall, Average Humidity, Mean/Max/Min Temperature, and soil types like alkaline, sandy, chalky, and clay.
-
-### Functional Requirements:
-
-Knowledge Collection: Accumulate data related to the relevant parameters from various sources.
-Data Preprocessing: Clean and normalize the data to make it suitable for training machine learning models.
-Learning and Testing: Split the data into training and test datasets and train the models using the training dataset.
-Modeling: Choose and apply suitable algorithms to the preprocessed data.
-Predicting: Use the trained models to predict the millet yield on new, unseen data.
-Non-Functional Requirements: These are the qualities the software must possess, such as its responsiveness, safety, and ease of use. Other requirements include its scalability (e.g., its performance under the load of many concurrent users) and reliability.
-
-### Training Modules:
-
-Dataset: The dataset, similar to Mushroom or Soyabean, undergoes feature selection using the PSO-SVM algorithm to pick essential features based on which classification is done. Among various parameters, the use of fertilizers was found to have the highest predictive value.
-
-Clustering: This method groups related attributes, ensuring a more accurate prediction model. For this project, a two-dimensional clustering approach was chosen due to the limited features in the dataset.
-
-Testing: The models underwent rigorous testing to ensure the quality, accuracy, and reliability of predictions.
+### Technical Highlights:
+Data-Driven UI: Employing SwiftUI's data-driven approach to update UI elements dynamically based on data state changes.
+View Tree Comparison and Selective Rendering: Enhancing performance by comparing view trees and selectively rendering views impacted by data changes.
+Consistent View Trees: Declaring all UI possibilities upfront for SwiftUI to effectively navigate and update the appropriate views on data changes.
 
 ### Results and Observations:
+The WeatherApp demonstrated a high level of efficiency in rendering complex UI layouts and responding to dynamic data changes. The use of advanced SwiftUI techniques led to a significant improvement in app performance and user experience.
 
-Using advanced machine learning algorithms like Random Forest, SVM, and Logistic Regression, the system achieved varied levels of success:
-
-Random Forest: 99.7% accuracy
-SVM: 40.95% accuracy
-Logistic Regression: 67.58% accuracy
-
-
-### Conclusions and Recommendations:
-
-The Crop Yield Prediction System provides an innovative solution to the challenges faced by modern agriculturists. While the system has proven its efficiency, it's important to note its limitations and the potential for further refinement. Future endeavors might incorporate real-time data analysis and even more precise prediction models, ensuring sustainable and optimized farming practices.
+### Conclusions and Future Directions:
+The WeatherApp project not only highlights the capabilities of SwiftUI in modern iOS app development but also provides a foundation for future projects that demand high-performance and dynamic UIs. Continuous exploration of SwiftUI's features and integration with real-time data will be the next steps in evolving this application.
 
 
 
-
-[Visit the project on GitHub](https://github.com/mounikapadala11/Agriculture-Crop-Yield-Prediction-Model)
+[Visit the project on GitHub](https://github.com/mounikapadala11/SwiftUI_WeatherApp)
 <!-- 
 About me old:
 
