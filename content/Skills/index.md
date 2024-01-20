@@ -12,6 +12,7 @@ tableOfContents: false
 - TypeScript
 - Java
 - Golang
+- Swift
 
 <h2> Web Development </h2>
 
@@ -21,11 +22,18 @@ tableOfContents: false
 - TypeScript
 - ReactJS
 - NodeJS
+- Spring/ SpringBoot
+
+<h2>ios </h2>
+
+- Swift UI
+- XCode
 
 <h2> Data Science & Machine Learning </h2>
 
 - Pandas
 - TensorFlow
+- PyTorch
 - NumPy
 - SciPy
 - Matplotlib
@@ -39,6 +47,12 @@ tableOfContents: false
 
 - MongoDB
 - SQL
+- Hadoop
+- Spark
+- Redis
+- Neo4j
+- Ray
+- AWS
 
 <h2> Miscellaneous </h2>
 
@@ -46,3 +60,8 @@ tableOfContents: false
 - Apache NiFi
 - Rust
 - Selenium
+- REST APIs
+- Docker
+- Kubernetes
+
+
