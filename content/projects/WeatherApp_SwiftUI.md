@@ -1,11 +1,11 @@
 ---
-title: "WeatherApp - SwiftUI Development"
+title: "<u>WeatherApp - SwiftUI Development</u>"
 description: "An independent project focusing on advanced SwiftUI techniques for iOS app development."
 dateString: Dec 2023 - Jan 2024
 draft: false
 tags: [ "SwiftUI", "iOS Development","UI/UX Design","Data-Driven UI","View Structs","Swift"]
 showToc: false
-weight: 208
+weight: 199
 ---
 
 ## Description
